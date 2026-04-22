@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+backend/pharmrpm.db
+frontend/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
